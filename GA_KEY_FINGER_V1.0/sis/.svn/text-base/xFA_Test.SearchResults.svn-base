@@ -1,0 +1,4 @@
+---- usb_receive 匹配 (3 in 1 文件) ----
+usb.c (E:\work\指纹\GA_KEY_V1.0\GA_KEY\usb):				usb_receive(g_b_MassComm,Data_Len);
+usb.c (E:\work\指纹\GA_KEY_V1.0\GA_KEY\usb):void usb_receive(unsigned char *data_buf, unsigned int len)
+usb.c (E:\work\指纹\GA_KEY_V1.0\GA_KEY\usb):	usb_receive(pBuf+len2,len1);

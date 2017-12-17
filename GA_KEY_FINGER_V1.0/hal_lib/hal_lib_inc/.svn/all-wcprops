@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/hal_lib/hal_lib_inc
+END
+ecc.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/hal_lib/hal_lib_inc/ecc.h
+END
+interrupt.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/hal_lib/hal_lib_inc/interrupt.h
+END
+flash.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/hal_lib/hal_lib_inc/flash.h
+END
+HS_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/hal_lib/hal_lib_inc/HS_types.h
+END
+sm1.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/hal_lib/hal_lib_inc/sm1.h
+END
+ssf33.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/hal_lib/hal_lib_inc/ssf33.h
+END
+ecp.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/hal_lib/hal_lib_inc/ecp.h
+END
+aes.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/hal_lib/hal_lib_inc/aes.h
+END
+trng.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/hal_lib/hal_lib_inc/trng.h
+END
+des.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/hal_lib/hal_lib_inc/des.h
+END
+sha.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/hal_lib/hal_lib_inc/sha.h
+END
+reae.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/hal_lib/hal_lib_inc/reae.h
+END
+cgu.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/hal_lib/hal_lib_inc/cgu.h
+END
+hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/hal_lib/hal_lib_inc/hash.h
+END
+hs32u2.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/hal_lib/hal_lib_inc/hs32u2.h
+END
+sms4.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/hal_lib/hal_lib_inc/sms4.h
+END

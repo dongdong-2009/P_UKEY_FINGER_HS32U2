@@ -1,0 +1,66 @@
+#
+#   linker.lcf  -   linker command file for Motorola MCore 2107 series
+#
+
+MEMORY
+{
+    TEXT	(RX)   : ORIGIN = 0x00002000,		  LENGTH = 0x00000000
+    ROMDATA (R)    : ORIGIN = AFTER(TEXT),        LENGTH = 0x00000000
+    DATA    (RW)   : ORIGIN = 0x00800000,         LENGTH = 0x00000000
+    BSS     (RW)   : ORIGIN = AFTER(DATA),        LENGTH = 0x00000000
+}
+
+
+SECTIONS {
+    
+    .main_application :             // Application Code
+     {
+        startup.c	 			(.text)  	
+      	*            			(.text) 	
+     } > TEXT             // Map to TEXT section (0x2000+)
+        
+    .main_application_data :     // Data Section
+     {             // Initialized variable data copied to RAM
+     * (.rodata)         // (Constant) data to be kept in ROM
+     . = ALIGN(0x4);
+     __data_ROM_begin = .;     // Sets start location used in rom_copy
+     * (.data)         // Just include data in all modules for now
+     __data_ROM_end = .;     // Sets end location used in rom_copy
+     * (.vtables)
+     * (.exception)
+         
+         ___sinit__ = .; // Used only if you're programming in C++
+         STATICINIT     
+     } > ROMDATA
+     
+     //.main_data:
+     //{
+     //. = ALIGN(0x4);
+    // __data_ROM_begin = .;     // Sets start location used in rom_copy
+     //* (.data)         // Just include data in all modules for now
+     //__data_ROM_end = .;     // Sets end location used in rom_copy
+     //} > DATA
+
+     __data_begin = 0x00800000;
+ 
+    .main_app_bss :
+    {
+    	__bss_begin = .;
+		* (.bss)
+		__bss_end =.;	
+    } > BSS
+    
+// Calculations and assignments of section sizes    
+     __stack_end     = (. + 7) & ~7;
+     __stack_begin    = __stack_end + 0x1500; 
+     __alt_stack_end    = __stack_begin;
+     __alt_stack_begin    = __alt_stack_end + 0x0200;
+     __heap_addr     = __alt_stack_begin;
+     __heap_end         = __heap_addr ;//+ 0x0600;
+     __heap_size     = __heap_end - __heap_addr;
+     
+ // Comment out next line to do a copy of the __data_ROM data from ROM to RAM
+    __data_size     = __data_ROM_end - __data_ROM_begin;
+    
+}
+

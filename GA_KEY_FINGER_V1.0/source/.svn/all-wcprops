@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/USBKEY/!svn/ver/3/trunk/FPKEY_1.0/FPKEY_1.0_CR/source
+END
+hal_uart.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/source/hal_uart.c
+END
+app_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/USBKEY/!svn/ver/3/trunk/FPKEY_1.0/FPKEY_1.0_CR/source/app_cmd.c
+END

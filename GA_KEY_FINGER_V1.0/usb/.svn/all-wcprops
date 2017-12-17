@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/usb
+END
+usb.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/usb/usb.h
+END
+usb_mass.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/usb/usb_mass.h
+END
+usb_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/usb/usb_data.h
+END
+usb.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/usb/usb.c
+END
+usb_mass.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/usb/usb_mass.c
+END

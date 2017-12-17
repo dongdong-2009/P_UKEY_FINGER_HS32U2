@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/USBKEY/!svn/ver/3/trunk/FPKEY_1.0/FPKEY_1.0_CR
+END
+Startup.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/Startup.c
+END
+project.mcp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/USBKEY/!svn/ver/3/trunk/FPKEY_1.0/FPKEY_1.0_CR/project.mcp
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/main.c
+END
+linker.lcf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/linker.lcf
+END
+linker_update.lcf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/linker_update.lcf
+END
+debug_linker.lcf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/debug_linker.lcf
+END

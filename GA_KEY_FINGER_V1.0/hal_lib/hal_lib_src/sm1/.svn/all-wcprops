@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/hal_lib/hal_lib_src/sm1
+END
+sm1.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/hal_lib/hal_lib_src/sm1/sm1.c
+END
+sm1_init.lib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/hal_lib/hal_lib_src/sm1/sm1_init.lib
+END
+sm1_func.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/hal_lib/hal_lib_src/sm1/sm1_func.c
+END

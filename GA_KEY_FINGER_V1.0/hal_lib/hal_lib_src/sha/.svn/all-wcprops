@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/hal_lib/hal_lib_src/sha
+END
+sha_func.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/hal_lib/hal_lib_src/sha/sha_func.c
+END
+hash.lib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/USBKEY/!svn/ver/2/trunk/FPKEY_1.0/FPKEY_1.0_CR/hal_lib/hal_lib_src/sha/hash.lib
+END
